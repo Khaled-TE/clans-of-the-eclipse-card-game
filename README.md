@@ -10,7 +10,7 @@
   [![Architecture: MVC](https://img.shields.io/badge/Architecture-MVC-8A2BE2?style=for-the-badge)](#)
 
   <br />
-  <img src="resources/images/gameplay-demo.gif" alt="GamePlay Demo" width="700"/>
+  <img src="src/main/resources/images/gameplay-demo.gif" alt="GamePlay Demo" width="700"/>
 
 </div>
 
