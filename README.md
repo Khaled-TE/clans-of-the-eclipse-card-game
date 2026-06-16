@@ -10,7 +10,6 @@
   [![Architecture: MVC](https://img.shields.io/badge/Architecture-MVC-8A2BE2?style=for-the-badge)](#)
 
   <br />
-  <!-- Replace the URL below with a GIF showing actual gameplay -->
   <img src="resources/images/gameplay-demo.gif" alt="GamePlay Demo" width="700"/>
 
 </div>
@@ -37,13 +36,15 @@
 
 ---
 
-## 👥 The Team & Contributions
+## 👥 The Team & Contributions (Team Shrimp-Pasta)
 
-* **Khaled Khalifa**: Core Unit Polymorphism, `EffectResolver`, GUI Engine (`GameArenaScene`, `CardNode`, `UIFactory`, `ProphecySelector`, `SceneManager`, ), State Synchronization, and Asset Management[cite: 1].
-* **Mohamed Draz**: Core Game Engine (`RoundManager`, `ScoreManager`, `GameController`) and Enums[cite: 1].
-* **Ali Mostafa**: `BarracksManager`, `BattleResolver`, Exceptions, and `SaveManager` implementation[cite: 1].
-* **Abdelrahman Kandeel**: Base Model structures and Secondary GUI Scenes (`InfoScene`, `SettingsScene`, `StartMenuScene`)[cite: 1].
-* **Adel Gomaa**: Command Line Interface logic and feedback scenes (`NamingScene`, `ScoreBoardScene`, `WinnerScene`)[cite: 1].
+| Team Member | Contributions & Associated Modules |
+| :--- | :--- |
+| **Khaled Khalifa** | Core Unit Polymorphism, `EffectResolver`, GUI Engine (`GameArenaScene`, `CardNode`, `UIFactory`, `ProphecySelector`, `SceneManager`), State Synchronization, and Asset Management. |
+| **Mohamed Draz** | Core Game Engine (`RoundManager`, `ScoreManager`, `GameController`) and Enums. |
+| **Ali Mostafa** | `BarracksManager`, `BattleResolver`, Exceptions, and `SaveManager` implementation. |
+| **Abdelrahman Kandeel** | Base Model structures and Secondary GUI Scenes (`InfoScene`, `SettingsScene`, `StartMenuScene`). |
+| **Adel Gomaa** | Command Line Interface logic and feedback scenes (`NamingScene`, `ScoreBoardScene`, `WinnerScene`). |
 
 ---
 
@@ -61,7 +62,7 @@ Execute the following commands in your terminal to compile and launch the applic
 git clone https://github.com/Khaled-TE/clans-of-the-eclipse-card-game.git
 
 # 2. Navigate to the project directory
-cd clans-of-the-eclipse-javafx
+cd clans-of-the-eclipse-card-game
 
 # 3. Clean, build, and run via Maven
 mvn clean javafx:run
