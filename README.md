@@ -36,7 +36,7 @@
 
 ---
 
-## 👥 The Team & Contributions (Team Shrimp-Pasta)
+## 👥 The Team & Contributions
 
 | Team Member | Contributions & Associated Modules |
 | :--- | :--- |
